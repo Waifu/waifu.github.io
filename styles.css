@@ -35,7 +35,7 @@ button:before {
   top: 0;
   opacity: 0.5;
   filter: blur(30px);
-  transform: translateX(-130px) skewX(-15deg);
+  
 }
 button:after {
   content: "";
@@ -48,7 +48,7 @@ button:after {
   top: 0;
   opacity: 0;
   filter: blur(30px);
-  transform: translate(-100px) scaleX(-15deg);
+ 
 }
 button:hover {
   background: #3e749c;
@@ -56,12 +56,10 @@ button:hover {
   color: #f0eeec; 
 }
 button:hover:before {
-  transform: translateX(300px) skewX(-15deg);
   opacity: 0.6;
   transition: 0.7s;
 }
 button:hover:after {
-  transform: translateX(300px) skewX(-15deg);
   opacity: 1;
   transition: 0.7s;
 }
