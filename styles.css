@@ -10,9 +10,9 @@ body {
   background: #151519;
 }
 
-@media (min-width: 568px) {
+@media (min-width: 768px) {
     body  {
-        max-width: 30%; left: 35%;
+        max-width: 50%; left: 45%;
         margin-top: 6%;
 	padding-top: 70px;
         padding-bottom: 50px;
