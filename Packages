@@ -1,0 +1,13 @@
+Package: com.waifu.minimalbubbles
+Name: Minimal Bubbles
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Minimal bubbles for the iMessage App.
+Maintainer: Waifu <thefieldsofasphodel@gmail.com>
+Author: Waifu <thefieldsofasphodel@gmail.com>
+Section: Themes
+Filename: debs/MinimalBubbles.deb
+Size: 1896
+MD5sum: 0cff1b78f4109e2b5f4f877c04d5daa9
+SHA1: 19ef19aabfcfff73d85dbe01594f04dff96ea8a8
+SHA256: 17a17815304cb7121ed402ac42e70460ecdb94e678c689f1c002b58b77283813
