@@ -12,9 +12,9 @@ body {
 
 @media (min-width: 768px) {
     body  {
-        max-width: 50%; left: 45%;
+        max-width: 100%; left: 35%;
         margin-top: 6%;
-	padding-top: 70px;
+		padding-top: 70px;
         padding-bottom: 50px;
     }
 }
