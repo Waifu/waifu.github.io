@@ -56,10 +56,12 @@ button:hover {
   color: #f0eeec; 
 }
 button:hover:before {
+  transform: translateX(300px) skewX(-15deg);
   opacity: 0.6;
   transition: 0.7s;
 }
 button:hover:after {
+  transform: translateX(300px) skewX(-15deg);
   opacity: 1;
   transition: 0.7s;
 }
