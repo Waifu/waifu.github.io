@@ -10,18 +10,6 @@ body {
   background: #151519;
 }
 
-
-button {
-	
-	color:#3e749c;
-    font-size: 1.2em;
-    border: solid 1.5px #3e749c;
-    background: transparent;
-    transition: all 0.3s ease-in-out;
-    margin-top: 15px;
-	
-	
-}
 button {
 	
   background: none;
