@@ -11,23 +11,11 @@ body {
 }
 
 @media (min-width: 768px) {
-    header img {
+    body  {
         max-width: 30%; left: 35%;
         margin-top: 6%;
-    }
-    header .intromsg {
-        padding-top: 70px;
+	padding-top: 70px;
         padding-bottom: 50px;
-    }
-
-    header .repo {
-        padding-top:20px;
-        font-size: 3.4em;
-    }
-
-    header .donation {
-        padding-top: 0px;
-        font-size: 1em;
     }
 }
 
