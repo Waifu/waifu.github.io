@@ -26,7 +26,6 @@ button:focus {
 }
 button:before {
   content: "";
-  color: #3e749c; 
   display: block;
   position: absolute;
   background: rgba(255, 255, 255, 0.5);
@@ -40,7 +39,6 @@ button:before {
 }
 button:after {
   content: "";
-  color:#f0eeec;
   display: block;
   position: absolute;
   background: rgba(255, 255, 255, 0.2);
