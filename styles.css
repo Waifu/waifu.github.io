@@ -10,15 +10,6 @@ body {
   background: #151519;
 }
 
-@media (min-width: 768px) {
-    body  {
-        max-width: 100%; left: 35%;
-        margin-top: 6%;
-		padding-top: 70px;
-        padding-bottom: 50px;
-    }
-}
-
 button {
 	
 	color:#3e749c;
